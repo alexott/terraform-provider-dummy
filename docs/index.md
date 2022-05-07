@@ -1,6 +1,6 @@
 # Dummy provider
 
-It cannot do much at all. Only a `dummy_thing` that does nothing at all..
+It cannot do much at all. Only a `dummy_thing` that does nothing at all...
 
 ```hcl
 provider "dummy" {
