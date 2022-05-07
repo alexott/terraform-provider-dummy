@@ -34,7 +34,5 @@ signs:
       - "${signature}"
       - "--detach-sign"
       - "${artifact}"
-release:
-  draft: true # manually examine the release before its live
 changelog:
   skip: true
