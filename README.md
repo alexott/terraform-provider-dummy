@@ -2,6 +2,8 @@
 
 It cannot do much at all. Only a `dummy_thing` that does nothing at all.
 
+This is a dummy change.
+
 ```hcl
 provider "dummy" {
     name = "foo"
