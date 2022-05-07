@@ -4,7 +4,7 @@ terraform {
   required_providers {
     dummy = {
       source = "nfx01/dummy"
-      version = "0.0.1"
+      version = "0.0.2"
     }
   }
 }

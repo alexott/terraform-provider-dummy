@@ -17,4 +17,6 @@ vendor/
 terraform-provider-*
 
 .terraform
-*.tfstate*
+
+*.lock.hcl
+*.backup
