@@ -1,4 +1,4 @@
-# Dummy provider
+# Dummy Terraform provider
 
 It cannot do much at all. Only a `dummy_thing` that does nothing at all.
 
