@@ -10,4 +10,8 @@ provider "dummy" {
 resource "dummy_thing" "this" {
     name = "bar"
 }
+
+resource "another_dummy_thing" "that" {
+    name = "baz"
+}
 ```
