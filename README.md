@@ -15,4 +15,3 @@ resource "another_dummy_thing" "that" {
     name = "baz"
 }
 ```
-
